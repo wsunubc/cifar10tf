@@ -1,4 +1,4 @@
-cifar*
+cifar-10*
 preprocess*.p
 image_classification.data*
 image_classification.index
